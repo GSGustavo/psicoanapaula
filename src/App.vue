@@ -1,16 +1,14 @@
 <script setup>
 import Header from './components/Header.vue'
-import Index from './pages/Index.vue'
 import Footer from './components/Footer.vue'
-// import HelloWorld from './components/HelloWorld.vue'
+import { RouterView } from 'vue-router'
 </script>
 
 <template>
-  <Header/>
-  <Index/>
-  <Footer/>
+  <Header />
+  <RouterView />
+  <Footer />
+  
 </template>
 
-<style scoped>
-
-</style>
+<style scoped></style>
