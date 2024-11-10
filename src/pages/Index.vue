@@ -39,7 +39,7 @@ export default {
 			<div class="flex flex-col md:flex-row lg:flex-row gap-8 justify-evenly items-center">
 				<div class="flex flex-col items-center gap-8">
 					<p class="font-black text-rose text-center leading-7 text-xl lg:w-[400px]">
-						Atendimento clínico remoto em todo o Brasil e acompanhamento de pacientes com base em avaliações individualizadas.
+						Atendimento clínico para todo o Brasil de forma remota e acompanhamento de pacientes com base em avaliações individualizadas.
 						Registro
 						e acompanhamento detalhado das consultas, respeitando o sigilo e garantindo o atendimento
 						humanizado. Ensino de técnicas de controle emocional, como relaxamento, controle da raiva e
