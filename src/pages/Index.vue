@@ -48,7 +48,7 @@ export default {
 		<div class="flex flex-col md:flex-row lg:flex-row gap-8 justify-evenly items-center">
 			<div class="flex flex-col gap-8 text-rose max-w-[400px]">
 				<h1 class="text-2xl font-black">
-					Atendimento Clínico Remoto com Acompanhamento Personalizado
+					Atendimento presencial e online.
 				</h1>
 				<p class="  text-md lg:w-[400px]">
 					Atendimento clínico remoto em todo o Brasil, com acompanhamento personalizado, registro detalhado
