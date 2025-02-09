@@ -100,15 +100,15 @@ export default {
 				<div class="flex flex-col gap-5 max-w-[400px]">
 					<img class="" width="100%" src="../assets/img/revitaliza-unimed.png" alt="">
 					<div class="flex  text-rose">
-						<a target="_blank" class="flex gap-2 items-center justify-center"
+						<a target="_blank" class="flex gap-2 items-center justify-center bg-rose text-white py-2 px-8 rounded-full"
 							href="https://www.instagram.com/revitaliza_psicologia/">
 							<i class="ri-instagram-line text-2xl "></i>
 							Instagram - Revitaliza
 						</a>
 					</div>
 					<div class="flex  text-rose">
-						<a target="_blank" class="flex gap-2 items-center justify-center"
-							href="https://wa.me/5565999800108">
+						<a target="_blank" class="flex gap-2 items-center justify-center bg-rose text-white py-2 px-8 rounded-full"
+							href="https://api.whatsapp.com/send?phone=5565999800108&text=Ol%C3%A1%2C%20gostaria%20de%20agendar%20uma%20sess%C3%A3o%20com%20a%20Psic%C3%B3loga%20Ana%20Paula%2C%20me%20chamo">
 							<i class="ri-whatsapp-line text-2xl "></i>
 							Whatsapp - Revitaliza
 						</a>
