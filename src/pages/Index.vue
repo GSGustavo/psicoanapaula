@@ -96,7 +96,7 @@ export default {
 					Onde eu Atendo Presencialmente?
 				</p>
 			</div>
-			<div class="flex sm:flex-col justify-between items-center mx-auto gap-40">
+			<div class="flex sm:flex-col lg:flex-row justify-between items-center mx-auto gap-40">
 				<div class="flex flex-col gap-5 max-w-[400px]">
 					<img class="" width="100%" src="../assets/img/revitaliza-unimed.png" alt="">
 					<div class="flex  text-rose">
