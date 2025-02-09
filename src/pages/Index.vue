@@ -115,7 +115,7 @@ export default {
 					</div>
 				</div>
 
-				<iframe class="rounded-xl w-[600px] sm:w-full h-[300px]"
+				<iframe class="rounded-xl lg:w-[600px] sm:w-full h-[300px]"
 					src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1139.5735800613068!2d-56.05954733037993!3d-15.6035478073834!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x939db18e8f84bc0d%3A0xbc47338dae7f2c2!2sRevitaliza%20Cl%C3%ADnica%20de%20Psicologia%20Integrada!5e1!3m2!1sen!2sbr!4v1739061275204!5m2!1sen!2sbr"
 					style="border:0;" allowfullscreen="" loading="lazy"
 					referrerpolicy="no-referrer-when-downgrade"></iframe>
